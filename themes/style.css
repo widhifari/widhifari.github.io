@@ -2384,7 +2384,15 @@ button:focus {
 .couple-section .groom p {
     font-size: 18px;
     font-size: 1.125rem;
-    color: #b7b6b6;
+    color: #555;
+    margin: 0;
+}
+
+.couple-section .bride p.alamat,
+.couple-section .groom p.alamat {
+    font-size: 15px;
+    font-size: 1rem;
+    color: #777;
     margin: 0;
 }
 
